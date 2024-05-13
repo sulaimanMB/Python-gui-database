@@ -28,5 +28,3 @@ Detailed usage instructions will be added soon! Stay tuned...
 ## SULAIMANMB
 SULAIMAN MUHAMMED BELLO 
 bellosulaiman56@gmail.com
-
-Feel free to modify any parts according to your preferences. Happy coding! Let me know if there's anything else I can help with
