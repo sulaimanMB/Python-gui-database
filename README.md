@@ -9,8 +9,8 @@ This project is built using Python programming language and features a Graphical
 
 ## Technologies Used
 - Python Programming Language
-- Tkinter Library
-- SQLite or other local databases
+- Tkinter 
+- SQLite3
 
 ## Getting Started
 1. Clone the repository: `git clone 
